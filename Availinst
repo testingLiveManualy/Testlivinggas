@@ -1,9 +1,1 @@
-echo "Welcome To BlueKage Installer Termux Edition!"
-sleep 2.0
-echo "Checking Installer Update...."
-sh /data/data/com.termux/files/home/BlueKage/resource/update
-echo "Connecting To Server.."
-curl -sL https://raw.githubusercontent.com/testingLiveManualy/Testlivinggas/main/installerConnect | bash
-sh /data/data/com.termux/files/home/BlueKage/resource/main
-exit
-quit
+echo "Update Has Unavailable!"
