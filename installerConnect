@@ -1,5 +1,2 @@
-echo "Exit!"
-end
-exit
-logout
-quit
+echo "connect To Server Succes!"
+sh /data/data/com.termux/files/home/BlueKage/resource/main
