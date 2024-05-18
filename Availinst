@@ -4,3 +4,4 @@ echo "Connecting To Server.."
 curl -sL https://raw.githubusercontent.com/testingLiveManualy/Testlivinggas/main/installerConnect | bash
 sh /data/data/com.termux/files/home/BlueKage/resource/main
 exit
+quit
