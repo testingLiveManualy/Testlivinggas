@@ -2,3 +2,4 @@ echo "New Update Available!"
 echo "New Update Installer Version: OpenGiner-1.0"
 echo "current version Installer: BeginningInstaller-0"
 sleep 5.0
+sh /data/data/com.termux/files/home/BlueKage/resource/update
