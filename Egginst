@@ -1,0 +1,8 @@
+echo "Easter Options Menu"
+echo
+echo "1. Redeem beta version"
+echo "2. Redeem reference"
+echo "3. half information"
+echo "4. Unistall All (back termux system to default)"
+echo "5. Easter feature"
+echo "0. Back To Main Menu"
