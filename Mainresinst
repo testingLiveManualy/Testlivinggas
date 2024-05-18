@@ -1,4 +1,6 @@
-echo "Welcome To BlueKage Installer Termux Edition!"
-echo "Checking Installer Updated...."
-echo "Connecting To Server.."
-curl -sL https://raw.githubusercontent.com/testingLiveManualy/Testlivinggas/main/installerConnect | bash
+echo "Welcome To BlueKageInstaller Menu!"
+echo
+echo "1. Install BlueKage"
+echo "2. Repair BlueKage"
+echo "3. Uninstall Bluekage"
+echo "Ctrl+x Cancel Installer"
