@@ -2,7 +2,8 @@ echo "Welcome To BlueKage Installer Termux Edition!"
 sleep 2.0
 echo "Checking Installer Update...."
 curl -sL https://github.com/testingLiveManualy/Testlivinggas/raw/main/Updtinst | bash
-echo "Connecting To Server.."
+echo "Connecting To Server..."
+sleep 1.0
 curl -sL https://raw.githubusercontent.com/testingLiveManualy/Testlivinggas/main/installerConnect | bash
 exit
 quit
