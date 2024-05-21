@@ -1,9 +1,10 @@
 echo "Welcome To BlueKage Installer Termux Edition!"
 sleep 2.0
 echo "Checking Installer Update...."
-sh /data/data/com.termux/files/home/BKGI/resource
+sh /data/data/com.termux/files/home/BKGI/resource/update 
 echo "Connecting To Server..."
 sleep 1.0
 curl -sL https://raw.githubusercontent.com/testingLiveManualy/Testlivinggas/main/installerConnect | bash
 exit
 quit
+p
