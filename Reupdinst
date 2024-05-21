@@ -1,2 +1,1 @@
-echo "control+x for cancel update (note: you cant continue installer before update installer!)
-read -p "Enter For continue Update" a
+echo "success Update!"
