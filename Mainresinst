@@ -6,4 +6,4 @@ echo "2. Repair&update BlueKage"
 echo "3. Uninstall Bluekage"
 echo "4. Easter Options"
 
-echo "Ctrl+x Cancel Installer"
+echo "Ctrl+z Cancel Installer"
